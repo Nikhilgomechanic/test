@@ -8,3 +8,7 @@ email
 schedule
 datetime
 OpenSSL 
+pyOpenSSL
+cryptography
+setuptools
+wheel
