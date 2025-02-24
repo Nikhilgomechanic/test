@@ -9,6 +9,7 @@ import schedule
 import time
 from dotenv import dotenv_values
 import smtplib
+import OpenSSL
 
 config = dotenv_values("key.env")
 
